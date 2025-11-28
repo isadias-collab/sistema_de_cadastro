@@ -1,0 +1,264 @@
+body{
+    margin:0;
+    font-family:Arial, Helvetica, sans-serif;
+    background:#5c3729;
+    background-image:url(../paginas/img/FUNDO.png); 
+    background-size:cover;
+    background-attachment:fixed;
+}
+
+/* topo decorado igual ao print */
+.top-banner{
+    width:100%;
+    height:80px;
+    background:url('../img/topo_natal.png');
+    background-size:cover;
+}
+
+.container{
+    width:90%;
+    max-width:1300px;
+    margin:20px auto;
+    background:rgba(255,255,255,0.1);
+    padding:20px;
+    border-radius:8px;
+}
+
+.titulo{
+    text-align:center;
+    color:#ffdf86;
+    font-size:26px;
+    margin-bottom:20px;
+    text-shadow:2px 2px #000;
+}
+.table {
+    width: 100%;
+    border-collapse: collapse;
+    background: rgba(0,0,0,0.25);  /* fundo transparente igual */
+    color: #fff;
+    font-size: 15px;
+    border-radius: 10px;
+    overflow: hidden;
+}
+
+.table th {
+    background: #e4c48a;          /* cabeçalho igual ao da foto */
+    color: #8b4f2f;
+    padding: 12px;
+    text-align: left;
+    font-weight: bold;
+    font-size: 14px;
+}
+
+.table td {
+    padding: 12px;
+    background: rgba(255,255,255,0.05); /* fundo das linhas igual */
+    border-bottom: 1px solid rgba(255,255,255,0.15);
+}
+
+/* Hover igual ao fornecedores */
+.table tr:hover td {
+    background: rgba(255,255,255,0.12);
+}
+
+/* Botões idênticos */
+.btn {
+    padding: 6px 12px;
+    border-radius: 6px;
+    text-decoration: none;
+    color: #fff;
+    font-size: 13px;
+    font-weight: bold;
+    border: none;
+}
+
+.editar {
+    background: #28a745;
+}
+
+.excluir {
+    background: #e63946;
+}
+
+/* imagem dentro da tabela */
+.img-produto {
+    width: 60px;
+    border-radius: 6px;
+}
+
+.btn{
+    padding:8px 14px;
+    border-radius:6px;
+    text-decoration:none;
+    color:#fff;
+    font-size:14px;
+    margin-right:5px;
+}
+
+.editar{
+    background:#4caf50;
+}
+
+.excluir{
+    background:#e74c3c;
+}
+/* Promoções */
+.promocoes {
+  text-align: center;
+  position: relative;
+  padding-bottom: 50px;
+
+}
+
+.promocoes h2 {
+  margin-top: 70px;
+  font-size: 26px;
+  color: #ffdf86;
+}
+
+.cards {
+  display: flex;
+  justify-content: center;
+  gap: 60px;
+  flex-wrap: wrap;
+}
+
+.card {
+  background: hsla(58, 100%, 94%, 1);
+  color: #000;
+  width: 200px;
+  padding: 15px;
+  border-radius: 10px;
+  box-shadow: 0 4px 6px rgba(0,0,0,0.3);
+  margin-top: 80px;
+  border: hsla(44, 79%, 46%, 1) 5px solid;
+  
+}
+
+.card img {
+  width: 90%;
+  border-radius: 10px;
+  margin-top: -60px;
+}
+
+.card h3 {
+  font-size: 14px;
+  margin: 10px 0;
+}
+
+.preco {
+  color: #ffdf86;
+  font-weight: bold;
+  font-size: 18px;
+}
+
+.parcelas {
+  color: #000000;
+  font-size: 12px;
+}
+.alfajor {
+  position: absolute; /* fixa em relação à janela */
+  bottom: 0;       /* canto inferior */
+  right: 0;        /* canto direito */
+  position: fixed;
+  margin: 0;
+  width: 300px;
+}
+
+.card img:hover{
+    transform: translateY(-20px);
+}
+
+/* Botão voltar */
+.top-voltar {
+    position: absolute; 
+    top: 80px;        /* distância do topo */
+    left: 30px;       /* distância da esquerda */
+    z-index: 1000;    /* garante que fique acima de outros elementos */
+}
+
+.voltar-btn {
+    background: none;
+    padding: 10x 15px;
+    color: #f8d7a4;
+    
+    text-decoration: none;
+    font-weight: bold;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 80px;
+    height: 80px;
+}
+/* ========================================================= */
+/*               MEDIA QUERIES – RESPONSIVIDADE              */
+/* ========================================================= */
+
+/* Telas até 1024px (tablets) */
+@media (max-width:1024px){
+    .cards{
+        gap:30px;
+    }
+
+    .alfajor{
+        width:280px;
+    }
+}
+
+/* Telas até 768px (celulares médios) */
+@media (max-width:768px){
+
+    .top-banner{
+        height:65px;
+    }
+
+    .titulo{
+        font-size:22px;
+    }
+
+    .card{
+        width:180px;
+        margin-top:60px;
+    }
+
+    .alfajor{
+        width:200px;
+    }
+}
+
+/* Telas até 480px (celulares pequenos) */
+@media (max-width:480px){
+
+    .container{
+        padding:12px;
+    }
+
+    .titulo{
+        font-size:18px;
+    }
+
+    .cards{
+        gap:20px;
+    }
+
+    .card{
+        width:150px;
+        margin-top:50px;
+    }
+
+    .card img{
+        margin-top:-45px;
+    }
+
+    .alfajor{
+        width:150px;
+    }
+
+    .table{
+        font-size:12px;
+    }
+
+    .table th, .table td{
+        padding:8px;
+    }
+}

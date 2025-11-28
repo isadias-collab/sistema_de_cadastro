@@ -1,0 +1,299 @@
+/* Estilo global */
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  background: #a12c28; /* Cor de fundo geral */
+  margin: 0;
+  padding: 0;
+}
+
+/* Cabeçalho */
+.header {
+  background: #a12c28; /* Cor do fundo do cabeçalho */
+  color: white;
+  padding: 20px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.logo {
+  font-weight: 800;
+  font-size: 24px;
+}
+
+.search input {
+  padding: 10px;
+  border-radius: 24px;
+  border: none;
+  width: 550px;
+}
+
+.links a {
+  color: white;
+  text-decoration: none;
+  margin-left: 12px;
+  font-size: 16px;
+  padding: 22px;
+}
+
+/* Container de conteúdo */
+.container {
+  max-width: 900px;
+  margin: 30px auto;
+}
+
+/* Card de lançamento */
+.card {
+  color: white;
+  padding: 20px;
+  border-radius: 12px;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  max-width: 900px;
+}
+
+.card h1 {
+  font-size: 36px;
+  margin-bottom: 10px;
+}
+
+.card p {
+  font-size: 18px;
+  margin-bottom: 15px;
+}
+
+.card .buy-btn {
+  background-color: #f3c30f;
+  color: #000;
+  padding: 10px 20px;
+  border-radius: 5px;
+  font-size: 16px;
+  border: none;
+  cursor: pointer;
+}
+
+.card .buy-btn:hover {
+  background-color: #f1a000;
+}
+
+.header .logo img {
+  width: 120px; 
+  height: auto; 
+  max-width: 100%;
+}
+footer {
+    background-color: #7a0f1c; /* vinho igual ao header */
+    color: #fff;
+    padding: 30px 0 10px;
+    margin-top: 40px;
+    font-family: Arial, sans-serif;
+}
+
+.footer-container {
+    display: flex;
+    justify-content: space-between;
+    max-width: 1200px;
+    margin: auto;
+    flex-wrap: wrap;
+    padding: 0 20px;
+    margin-bottom: 0px;
+}
+
+.footer-section {
+    width: 23%;
+    min-width: 220px;
+    margin-bottom: 20px;
+}
+
+.footer-logo {
+    width: 130px;
+    margin-bottom: 10px;
+}
+
+.footer-section h3 {
+    font-size: 18px;
+    margin-bottom: 10px;
+    border-bottom: 2px solid #fff;
+    display: inline-block;
+    padding-bottom: 3px;
+}
+
+.footer-section ul {
+    list-style: none;
+    padding: 0;
+}
+
+.footer-section ul li {
+    margin: 6px 0;
+}
+
+.footer-section a {
+    text-decoration: none;
+    color: #fff;
+}
+
+.footer-section a:hover {
+    text-decoration: underline;
+}
+
+.social-links img {
+    width: 28px;
+    margin-right: 10px;
+    filter: brightness(0) invert(1);
+    cursor: pointer;
+}
+
+.footer-bottom {
+    text-align: center;
+    padding-top: 15px;
+    font-size: 14px;
+    border-top: 1px solid #ffffff50;
+}
+/* Faixa PIX */
+.top-pix {
+  width: 100%;
+  background-color: #7a0f1c;
+  color: #fff;
+  text-align: center;
+  padding: 8px 0;
+  font-weight: 600;
+  font-size: 15px;
+}
+
+/* Menu principal */
+.main-menu {
+  background-color: #7a0f1c;
+  padding: 0;
+  margin: 0;
+}
+
+.main-menu ul {
+  list-style: none;
+  display: flex;
+  justify-content: center;
+  margin: 0;
+  padding: 12px 0;
+  gap: 35px;
+}
+
+.main-menu ul li a {
+  color: #fff;
+  text-decoration: none;
+  font-weight: 600;
+  font-size: 15px;
+}
+
+.main-menu ul li a:hover {
+  text-decoration: underline;
+}
+/* =============== RESPONSIVIDADE =============== */
+
+/* --- Telas até 1024px (tablets e notebooks pequenos) --- */
+@media (max-width: 1024px) {
+  .search input {
+    width: 350px;
+  }
+
+  .main-menu ul {
+    gap: 20px;
+  }
+}
+
+/* --- Telas até 768px (tablets e celulares grandes) --- */
+@media (max-width: 768px) {
+
+  /* HEADER VIRA COLUNA */
+  .header {
+    flex-direction: column;
+    text-align: center;
+    gap: 15px;
+    padding: 15px;
+  }
+
+  .search input {
+    width: 90%;
+    max-width: 450px;
+  }
+
+  .links a {
+    padding: 10px;
+    margin: 0 5px;
+    font-size: 14px;
+  }
+
+  /* MENU PRINCIPAL REDUZ ESPAÇOS */
+  .main-menu ul {
+    flex-wrap: wrap;
+    gap: 15px;
+  }
+
+  .main-menu ul li a {
+    font-size: 14px;
+  }
+
+  /* IMAGEM DO HEADER */
+  .header .logo img {
+    width: 90px;
+  }
+
+  /* CARDS */
+  .card h1 {
+    font-size: 28px;
+  }
+
+  .card p {
+    font-size: 16px;
+  }
+}
+
+/* --- Telas até 480px (celulares) --- */
+@media (max-width: 480px) {
+
+  /* HEADER TOTALMENTE AJUSTADO */
+  .header {
+    padding: 10px;
+    gap: 10px;
+  }
+
+  .logo {
+    font-size: 20px;
+  }
+
+  /* BUSCA FICA ESTICADA */
+  .search input {
+    width: 95%;
+    font-size: 14px;
+  }
+
+  /* MENU EM COLUNA */
+  .main-menu ul {
+    flex-direction: column;
+    align-items: center;
+    gap: 10px;
+    padding: 10px 0;
+  }
+
+  .main-menu ul li a {
+    font-size: 14px;
+  }
+
+  /* IMAGEM DO LOGO */
+  .header .logo img {
+    width: 70px;
+  }
+
+  /* CARD */
+  .card {
+    padding: 15px;
+  }
+
+  .card h1 {
+    font-size: 22px;
+  }
+
+  .card p {
+    font-size: 14px;
+  }
+}
