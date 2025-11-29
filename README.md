@@ -108,10 +108,13 @@ Clique abaixo para visualizar os protótipos navegáveis desenvolvidos no Figma:
 
 # 📦 Escopo da Sprint 2
 
-- Criar protótipo funcional no Figma.  
-- Desenvolver páginas principais: Home, Produtos, Contato.  
-- Implementar funcionalidades de cadastro e listagem de produtos e fornecedores.  
-- Garantir responsividade e boa apresentação visual.
+- Desenvolver o Diagrama Entidade-Relacionamento (DER).
+
+- Definir entidades, atributos e relacionamentos do banco de dados.
+
+- Organizar a estrutura lógica das tabelas para garantir integridade dos dados.
+
+- Validar a modelagem conforme os requisitos do sistema.
 
 --- 
 
@@ -169,10 +172,13 @@ Estruturado para permitir:
 
 # 📦 Escopo da Sprint 3
 
-- Criar protótipo funcional no Figma.  
-- Desenvolver páginas principais: Home, Produtos, Contato.  
-- Implementar funcionalidades de cadastro e listagem de produtos e fornecedores.  
-- Garantir responsividade e boa apresentação visual.
+-Finalizar o site em PHP totalmente integrado ao banco de dados.
+
+-Ajustar o protótipo no Figma e Canva, garantindo boa usabilidade e identidade visual definida.
+
+-Garantir responsividade para funcionamento em dispositivos móveis.
+
+-Concluir toda a documentação do projeto seguindo as normas ABNT.
 
 ---
 
