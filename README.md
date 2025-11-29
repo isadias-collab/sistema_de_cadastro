@@ -76,25 +76,31 @@ _______________________________________________________________________
 - Facilidade de navegação e clareza na apresentação dos conteúdos
 
 ______________________________________________________________________
-## 📸 Protótipo
+## 📸 Protótipos
   
-| Página Principal Original | Página Principal de Natal|
+| Página Principal Original | Página Principal de Natal (Mobile)|
 |------------------|------------------------|
 | <img width="1056" height="788" src="https://github.com/user-attachments/assets/b8ba741f-c29b-4a70-b47b-71c22d262cac" />|<img width="1056" height="788" alt="image" src="https://github.com/user-attachments/assets/f084e069-b211-447b-8cea-1ba78367ebc7" /> 
 
-| Página Cadastre-se Original | Página Cadastre-se de Natal|
+| Página Cadastre-se Original | Página Cadastre-se de Natal (Mobile)|
 |------------------|------------------------|
 |<img width="1056" height="788" alt="image" src="https://github.com/user-attachments/assets/964e5a3c-21e3-4d52-a926-d34f95504aee" />|<img width="1056" height="788" alt="image" src="https://github.com/user-attachments/assets/3864102f-de60-41a3-b218-85d8a9bd0b5e" />
-______________________________________________________________________
+
  ---
 
-## 🔗 Links do Protótipo no Figma
+### Protótipos no Figma
 
-- 💻 **Desktop:**  
-  https://www.figma.com/design/DeVtQDLZHbx14F7VIqXgtm/Protótipo-Dr-Penaut?node-id=5-2
-
-- 📱 **Mobile:**  
-  https://www.figma.com/design/nXUmpX0ut2QLGcmrGHqnV1/Untitled?node-id=0-1
+- **Protótipo Original (Desktop)**  
+  [Acessar Protótipo Original](https://www.figma.com/design/8wZGWBRCLmjp16lucYdJUO/Prot%C3%B3tipo---Original?t=JxXc7evOzcpc9xlI-0)
+  
+- **Protótipo Natal (Desktop)**  
+  [Acessar Protótipo Natal](https://www.figma.com/design/vOOszKQB7dl75aIkg1G3P9/Prot%C3%B3tipo---Natal?node-id=0-1&p=f&t=JxXc7evOzcpc9xlI-0)
+  
+- **Protótipo Mobile Original**  
+  [Acessar Protótipo Mobile Original](https://www.figma.com/design/ZLwePKMHS9p6qskIRYYUcA/Prot%C3%B3tipo--Mobile----Original?t=IaQFBHAuAIA7eyql-0)
+  
+- **Protótipo Mobile Natal**  
+  [Acessar Protótipo Mobile Natal](https://www.figma.com/design/DAtjrKttOqzJaqCFPuVcLQ/Prot%C3%B3tipo--Mobile----Natal?t=IaQFBHAuAIA7eyql-0)
 
 ---
 
