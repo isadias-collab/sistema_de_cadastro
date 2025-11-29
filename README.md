@@ -30,8 +30,6 @@ Este projeto tem como objetivo o desenvolvimento de um protótipo no Figma e a i
 - [🎨 Paleta de Cores Oficial — Dr Peanut](#-paleta-de-cores-oficial--dr-peanut)
 - [✅ Critérios de Aceitação](#-critérios-de-aceitação)
 - [📸 Protótipos](#-protótipos)
-  - [Protótipos no Figma — Desktop](#protótipos-no-figma--desktop)
-  - [Protótipos no Figma — Mobile](#protótipos-no-figma--mobile)
 - [📦 Escopo da Sprint 2](#-escopo-da-sprint-2)
 - [🗄️ Banco de Dados — Dr Peanut](#️-banco-de-dados--dr-peanut)
 - [🗂️ Diagrama](#️-diagrama)
