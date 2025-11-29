@@ -1,4 +1,11 @@
-# 🥜 Sistema de Cadastro Dr Peanut
+<div align="center">
+
+# 🥜 Sistema de Cadastro Dr Peanut  
+### 🎥 Apresentação Oficial
+
+[![Canva](https://img.shields.io/badge/Canva-Apresentação-00C4CC?style=for-the-badge&logo=canva&logoColor=white)]((https://www.canva.com/design/DAG3dlFZZmQ/hwgJYTEvuZQ8sED_gp4mKA/edit?utm_content=DAG3dlFZZmQ&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton))
+
+</div>
 
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-v5.2-330072?style=for-the-badge&logo=html5&logoColor=white" />
@@ -18,16 +25,6 @@ Este projeto tem como objetivo o desenvolvimento de um protótipo no Figma e a i
 ✅ Listagem de produtos disponíveis  
 
 ---
-<div align="center">
-
-# 🥜 Sistema de Cadastro Dr Peanut  
-### 🎥 Apresentação Oficial
-
-[![Canva](https://img.shields.io/badge/Canva-Apresentação-00C4CC?style=for-the-badge&logo=canva&logoColor=white)]((https://www.canva.com/design/DAG3dlFZZmQ/hwgJYTEvuZQ8sED_gp4mKA/edit?utm_content=DAG3dlFZZmQ&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton))
-
-</div>
----
-
 # 📚 **Sumário do Projeto**
 
 <p align="center">
