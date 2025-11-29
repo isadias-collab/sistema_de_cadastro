@@ -20,7 +20,7 @@ Este projeto tem como objetivo o desenvolvimento de um protótipo no Figma e a i
 
 ---
 
-## 📦 Escopo da Sprint 1
+# 📦 Escopo da Sprint 1
 
 - Criar protótipo funcional no Figma.  
 - Desenvolver páginas principais: Home, Produtos, Contato.  
@@ -106,7 +106,7 @@ Clique abaixo para visualizar os protótipos navegáveis desenvolvidos no Figma:
 
 ---
 
-## 📦 Escopo da Sprint 2
+# 📦 Escopo da Sprint 2
 
 - Criar protótipo funcional no Figma.  
 - Desenvolver páginas principais: Home, Produtos, Contato.  
@@ -115,7 +115,7 @@ Clique abaixo para visualizar os protótipos navegáveis desenvolvidos no Figma:
 
 --- 
 
-# 🗄️ Banco de Dados — Dr. Peanut
+## 🗄️ Banco de Dados — Dr. Peanut
 
 Estruturado para permitir:
 
@@ -167,7 +167,7 @@ Estruturado para permitir:
 
 ---
 
-## 📦 Escopo da Sprint 3
+# 📦 Escopo da Sprint 3
 
 - Criar protótipo funcional no Figma.  
 - Desenvolver páginas principais: Home, Produtos, Contato.  
@@ -176,7 +176,7 @@ Estruturado para permitir:
 
 ---
 
-# 🖥️ Implementação PHP no Sistema Dr. Peanut
+### 🖥️ Implementação PHP no Sistema Dr. Peanut
 
 O PHP é responsável por:
 
