@@ -19,6 +19,77 @@ Este projeto tem como objetivo o desenvolvimento de um protótipo no Figma e a i
 
 ---
 
+# 📚 **Sumário do Projeto**
+
+<p align="center">
+  <a href="#-sistema-de-cadastro-dr-peanut">🎯 Visão Geral</a> •
+  <a href="#-escopo-da-sprint-1">🚀 Sprint 1</a> •
+  <a href="#-escopo-da-sprint-2">📦 Sprint 2</a> •
+  <a href="#-escopo-da-sprint-3">🧩 Sprint 3</a> •
+  <a href="#-tecnologias-e-ferramentas-utilizadas">💻 Tecnologias</a> •
+  <a href="#-equipe">👥 Equipe</a>
+</p>
+
+---
+
+## 🔗 **Navegação Completa**
+
+### **1. Introdução**
+- [🥜 Sistema de Cadastro Dr Peanut](#-sistema-de-cadastro-dr-peanut)
+
+---
+
+### **2. Sprint 1**
+- [📦 Escopo da Sprint 1](#-escopo-da-sprint-1)
+- [🛠️ Planejamento e Metodologia](#️-planejamento-e-metodologia)
+- [✨ Funcionalidades Desenvolvidas](#-funcionalidades-desenvolvidas)
+- [🎨 Paleta de Cores Oficial — Dr Peanut](#-paleta-de-cores-oficial--dr-peanut)
+- [✅ Critérios de Aceitação](#-critérios-de-aceitação)
+- [📸 Protótipos](#-protótipos)
+  - [Protótipos no Figma — Desktop](#protótipos-no-figma--desktop)
+  - [Protótipos no Figma — Mobile](#protótipos-no-figma--mobile)
+
+---
+
+### **3. Sprint 2**
+- [📦 Escopo da Sprint 2](#-escopo-da-sprint-2)
+- [🗄️ Banco de Dados — Dr Peanut](#️-banco-de-dados--dr-peanut)
+- [🗂️ Diagrama](#️-diagrama)
+- [🏗️ Estrutura do Sistema (Banco de Dados)](#️-estrutura-do-sistema-banco-de-dados)
+  - [Usuário](#usuário)
+  - [Fornecedor](#fornecedor)
+  - [Produto](#produto)
+
+---
+
+### **4. Sprint 3**
+- [📦 Escopo da Sprint 3](#-escopo-da-sprint-3)
+- [🖥️ Implementação PHP no Sistema Dr Peanut](#️-implementação-php-no-sistema-dr-peanut)
+- [🏗️ Arquitetura dos Arquivos PHP](#️-arquitetura-dos-arquivos-php)
+- [🎯 Objetivos do Sistema PHP](#-objetivos-do-sistema-php)
+
+---
+
+### **5. Tecnologias**
+- [💻 Tecnologias e Ferramentas Utilizadas](#-tecnologias-e-ferramentas-utilizadas)
+
+---
+
+### **6. Aprendizados**
+- [🧠 Aprendizados](#-aprendizados)
+
+---
+
+### **7. Contato**
+- [💬 Contato](#-contato)
+
+---
+
+### **8. Equipe**
+- [👥 Equipe](#-equipe)
+
+---
+
 # 📚 **Sumário**
 
 > *Clique para navegar pelos tópicos 👇*
