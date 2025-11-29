@@ -3,9 +3,10 @@
 # 🥜 Sistema de Cadastro Dr Peanut  
 ### 🎥 Apresentação Oficial
 
-[![Canva](https://img.shields.io/badge/Canva-Apresentação-00C4CC?style=for-the-badge&logo=canva&logoColor=white)]((https://www.canva.com/design/DAG3dlFZZmQ/hwgJYTEvuZQ8sED_gp4mKA/edit?utm_content=DAG3dlFZZmQ&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton))
+[![Canva](https://img.shields.io/badge/Canva-Apresentação-00C4CC?style=for-the-badge&logo=canva&logoColor=white)](https://www.canva.com/design/DAG3dlFZZmQ/hwgJYTEvuZQ8sED_gp4mKA/edit)
 
 </div>
+
 
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-v5.2-330072?style=for-the-badge&logo=html5&logoColor=white" />
