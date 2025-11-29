@@ -89,7 +89,6 @@ ______________________________________________________________________
  ---
 
 ## Protótipos no Figma  
--------------
 
 Clique abaixo para visualizar os protótipos navegáveis desenvolvidos no Figma:
 
@@ -107,25 +106,14 @@ Clique abaixo para visualizar os protótipos navegáveis desenvolvidos no Figma:
 
 ---
 
+## 📦 Escopo da Sprint 2
 
-## 💻 Tecnologias e Ferramentas Utilizadas
+- Criar protótipo funcional no Figma.  
+- Desenvolver páginas principais: Home, Produtos, Contato.  
+- Implementar funcionalidades de cadastro e listagem de produtos e fornecedores.  
+- Garantir responsividade e boa apresentação visual.
 
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" />
-</p>
-
-
-- **HTML** – Estruturação das páginas  
-- **CSS** – Estilização e responsividade  
-- **Figma** – Criação do protótipo visual  
-- **PHP** – Processamento no servidor, regras de negócio, autenticação e geração dinâmica de páginas  
-- **MySQL** – Armazenamento de dados, relações entre tabelas e consultas do sistema  
-
----
+--- 
 
 # 🗄️ Banco de Dados — Dr. Peanut
 
@@ -176,6 +164,15 @@ Estruturado para permitir:
 - 💲 `Preço Unitário` – Valor por unidade  
 - 🖼️ `Imagens` – Arquivos visuais  
 - 🔗 `fornecedor_id (FK)` – Fornecedor responsável  
+
+---
+
+## 📦 Escopo da Sprint 3
+
+- Criar protótipo funcional no Figma.  
+- Desenvolver páginas principais: Home, Produtos, Contato.  
+- Implementar funcionalidades de cadastro e listagem de produtos e fornecedores.  
+- Garantir responsividade e boa apresentação visual.
 
 ---
 
@@ -239,6 +236,24 @@ Conecta o sistema ao MySQL e define o charset padrão.
 
 _____________________________________________
 
+ ## 💻 Tecnologias e Ferramentas Utilizadas
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" />
+</p>
+
+
+- **HTML** – Estruturação das páginas  
+- **CSS** – Estilização e responsividade  
+- **Figma** – Criação do protótipo visual  
+- **PHP** – Processamento no servidor, regras de negócio, autenticação e geração dinâmica de páginas  
+- **MySQL** – Armazenamento de dados, relações entre tabelas e consultas do sistema  
+
+---
 
 ## 🧠 Aprendizados
 
