@@ -88,19 +88,22 @@ ______________________________________________________________________
 
  ---
 
-### Protótipos no Figma
+## Protótipos no Figma  
+-------------
 
-- **Protótipo Original (Desktop)**  
-  [Acessar Protótipo Original](https://www.figma.com/design/8wZGWBRCLmjp16lucYdJUO/Prot%C3%B3tipo---Original?t=JxXc7evOzcpc9xlI-0)
-  
-- **Protótipo Natal (Desktop)**  
-  [Acessar Protótipo Natal](https://www.figma.com/design/vOOszKQB7dl75aIkg1G3P9/Prot%C3%B3tipo---Natal?node-id=0-1&p=f&t=JxXc7evOzcpc9xlI-0)
-  
-- **Protótipo Mobile Original**  
-  [Acessar Protótipo Mobile Original](https://www.figma.com/design/ZLwePKMHS9p6qskIRYYUcA/Prot%C3%B3tipo--Mobile----Original?t=IaQFBHAuAIA7eyql-0)
-  
-- **Protótipo Mobile Natal**  
-  [Acessar Protótipo Mobile Natal](https://www.figma.com/design/DAtjrKttOqzJaqCFPuVcLQ/Prot%C3%B3tipo--Mobile----Natal?t=IaQFBHAuAIA7eyql-0)
+Clique abaixo para visualizar os protótipos navegáveis desenvolvidos no Figma:
+
+### **Versões Desktop**
+[![Protótipo Natal (Desktop)](https://img.shields.io/badge/Figma-Natal%20(Desktop)-red?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/design/vOOszKQB7dl75aIkg1G3P9/Prot%C3%B3tipo---Natal?node-id=0-1&p=f&t=JxXc7evOzcpc9xlI-0)
+
+[![Protótipo Original (Desktop)](https://img.shields.io/badge/Figma-Original%20(Desktop)-blue?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/design/8wZGWBRCLmjp16lucYdJUO/Prot%C3%B3tipo---Original?t=JxXc7evOzcpc9xlI-0)
+
+---
+
+### **Versões Mobile**
+[![Protótipo Natal (Mobile)](https://img.shields.io/badge/Figma-Natal%20(Mobile)-red?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/design/DAtjrKttOqzJaqCFPuVcLQ/Prot%C3%B3tipo--Mobile----Natal?t=IaQFBHAuAIA7eyql-0)
+
+[![Protótipo Original (Mobile)](https://img.shields.io/badge/Figma-Original%20(Mobile)-blue?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/design/ZLwePKMHS9p6qskIRYYUcA/Prot%C3%B3tipo--Mobile----Original?t=IaQFBHAuAIA7eyql-0)
 
 ---
 
