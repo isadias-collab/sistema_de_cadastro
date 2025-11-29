@@ -8,20 +8,36 @@
   <img src="https://img.shields.io/badge/Figma-Protótipo-330072?style=for-the-badge&logo=figma&logoColor=white" />
   <img src="https://img.shields.io/badge/Status-Em%20Desenvolvimento-FFFFFF?style=for-the-badge&logoColor=330072" />
 </p>
- ## 📚 Sumário
-- [Visão Geral](#-visão-geral)
-- [Escopo da Sprint 1](#-escopo-da-sprint-1)
-- [Planejamento e Metodologia](#️-planejamento-e-metodologia)
-- [Funcionalidades](#-funcionalidades-desenvolvidas)
-- [Protótipos](#-protótipos)
-- [Banco de Dados](#️-banco-de-dados--dr-peanut)
-- [Arquitetura PHP](#-arquitetura-dos-arquivos-php)
-- [Tecnologias Usadas](#-tecnologias-e-ferramentas-utilizadas)
-- [Aprendizados](#-aprendizados)
-- [Contato](#-contato)
-- [Equipe](#-equipe)
 
+# 📚 **Sumário**
 
+> *Clique para navegar pelos tópicos 👇*
+
+- [🥜 Sistema de Cadastro Dr Peanut](#-sistema-de-cadastro-dr-peanut)
+- [📦 Escopo da Sprint 1](#-escopo-da-sprint-1)
+- [🛠️ Planejamento e Metodologia](#️-planejamento-e-metodologia)
+- [✨ Funcionalidades Desenvolvidas](#-funcionalidades-desenvolvidas)
+- [🎨 Paleta de Cores Oficial — Dr Peanut](#-paleta-de-cores-oficial--dr-peanut)
+- [✅ Critérios de Aceitação](#-critérios-de-aceitação)
+- [📸 Protótipos](#-protótipos)
+  - [Protótipos no Figma — Desktop](#protótipos-no-figma--desktop)
+  - [Protótipos no Figma — Mobile](#protótipos-no-figma--mobile)
+- [📦 Escopo da Sprint 2](#-escopo-da-sprint-2)
+- [🗄️ Banco de Dados — Dr Peanut](#️-banco-de-dados--dr-peanut)
+- [🗂️ Diagrama](#️-diagrama)
+- [🏗️ Estrutura do Sistema (Banco de Dados)](#️-estrutura-do-sistema-banco-de-dados)
+  - [Usuário](#usuário)
+  - [Fornecedor](#fornecedor)
+  - [Produto](#produto)
+- [📦 Escopo da Sprint 3](#-escopo-da-sprint-3)
+- [🖥️ Implementação PHP no Sistema Dr Peanut](#️-implementação-php-no-sistema-dr-peanut)
+- [🏗️ Arquitetura dos Arquivos PHP](#️-arquitetura-dos-arquivos-php)
+- [🎯 Objetivos do Sistema PHP](#-objetivos-do-sistema-php)
+- [💻 Tecnologias e Ferramentas Utilizadas](#-tecnologias-e-ferramentas-utilizadas)
+- [🧠 Aprendizados](#-aprendizados)
+- [💬 Contato](#-contato)
+- [👥 Equipe](#-equipe)
+ 
 🌐 Projeto Website Institucional - Dr. Peanut
 
 Este projeto tem como objetivo o desenvolvimento de um protótipo no Figma e a implementação de um website institucional para a marca Dr. Peanut. A plataforma contempla funcionalidades básicas de gestão, como:
