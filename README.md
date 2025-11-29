@@ -172,13 +172,13 @@ Estruturado para permitir:
 
 # 📦 Escopo da Sprint 3
 
--Finalizar o site em PHP totalmente integrado ao banco de dados.
+- Finalizar o site em PHP totalmente integrado ao banco de dados.
 
--Ajustar o protótipo no Figma e Canva, garantindo boa usabilidade e identidade visual definida.
+- Ajustar o protótipo no Figma e Canva, garantindo boa usabilidade e identidade visual definida.
 
--Garantir responsividade para funcionamento em dispositivos móveis.
+- Garantir responsividade para funcionamento em dispositivos móveis.
 
--Concluir toda a documentação do projeto seguindo as normas ABNT.
+- Concluir toda a documentação do projeto seguindo as normas ABNT.
 
 ---
 
