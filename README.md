@@ -9,6 +9,16 @@
   <img src="https://img.shields.io/badge/Status-Em%20Desenvolvimento-FFFFFF?style=for-the-badge&logoColor=330072" />
 </p>
 
+🌐 Projeto Website Institucional - Dr. Peanut
+
+Este projeto tem como objetivo o desenvolvimento de um protótipo no Figma e a implementação de um website institucional para a marca Dr. Peanut. A plataforma contempla funcionalidades básicas de gestão, como:
+
+✅ Cadastro de fornecedores  
+✅ Cadastro de produtos  
+✅ Listagem de produtos disponíveis  
+
+---
+
 # 📚 **Sumário**
 
 > *Clique para navegar pelos tópicos 👇*
@@ -37,16 +47,8 @@
 - [🧠 Aprendizados](#-aprendizados)
 - [💬 Contato](#-contato)
 - [👥 Equipe](#-equipe)
- 
-🌐 Projeto Website Institucional - Dr. Peanut
 
-Este projeto tem como objetivo o desenvolvimento de um protótipo no Figma e a implementação de um website institucional para a marca Dr. Peanut. A plataforma contempla funcionalidades básicas de gestão, como:
-
-✅ Cadastro de fornecedores  
-✅ Cadastro de produtos  
-✅ Listagem de produtos disponíveis  
-
----
+--- 
 
 # 📦 Escopo da Sprint 1
 
