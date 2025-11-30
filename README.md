@@ -4,7 +4,6 @@
 ### 🎥 Apresentação Oficial
 
 [![Canva](https://img.shields.io/badge/Canva-Apresentação-00C4CC?style=for-the-badge&logo=canva&logoColor=white)](https://www.canva.com/design/DAG3dlFZZmQ/hwgJYTEvuZQ8sED_gp4mKA/edit)
-<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/master/svgs/solid/laptop-code.svg" width="40" />
 
 </div>
 <p align="center">
@@ -269,8 +268,6 @@ _____________________________________________
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/master/svgs/solid/laptop-code.svg" width="40" />
-
 </p>
 
 
