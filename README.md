@@ -268,11 +268,6 @@ _____________________________________________
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/>
-
-  <!-- Canva (funciona no GitHub) -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Canva_icon_2021.svg/1024px-Canva_icon_2021.svg.png" width="40"/>
-
-  <!-- Font Awesome (ícone oficial do GitHub Sponsors) -->
   <img src="https://raw.githubusercontent.com/encharm/Font-Awesome-SVG-PNG/master/black/svg/font-awesome.svg" width="40"/>
 </p>
 
@@ -281,7 +276,7 @@ _____________________________________________
 - **Figma** – Criação do protótipo visual  
 - **PHP** – Processamento no servidor, regras de negócio, autenticação e geração dinâmica de páginas  
 - **MySQL** – Armazenamento de dados, relações entre tabelas e consultas do sistema  
-
+- **Font Awesome (Font Awesome Icons)** – Biblioteca de ícones utilizada para adicionar símbolos visuais e melhorar a interface do usuário  
 ---
 
 ## 🧠 Aprendizados
