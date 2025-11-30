@@ -147,8 +147,11 @@ Estruturado para permitir:
 ---
 
 ## 🗂️ Diagrama 
+| Diagrama (DER)|
+|------------------|------------------------|
+|<img width="598" height="335" alt="image" src="https://github.com/user-attachments/assets/1b9c11a3-ed12-42d9-9578-ef22ba9d8b92" />|
 
-<img width="598" height="335" alt="image" src="https://github.com/user-attachments/assets/1b9c11a3-ed12-42d9-9578-ef22ba9d8b92" />
+
 
 ---
 
