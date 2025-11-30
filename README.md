@@ -5,9 +5,8 @@
 
 [![Canva](https://img.shields.io/badge/Canva-Apresentação-00C4CC?style=for-the-badge&logo=canva&logoColor=white)](https://www.canva.com/design/DAG3dlFZZmQ/hwgJYTEvuZQ8sED_gp4mKA/edit)
 
-</div>
-
   <img src="https://img.shields.io/badge/Status-Em%20Desenvolvimento-FFFFFF?style=for-the-badge&logoColor=330072" />
+</div>
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-v5.2-330072?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-v3.1-E74E0F?style=for-the-badge&logo=css3&logoColor=white" />
