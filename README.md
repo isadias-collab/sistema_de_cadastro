@@ -4,6 +4,7 @@
 ### 🎥 Apresentação Oficial
 
 [![Canva](https://img.shields.io/badge/Canva-Apresentação-00C4CC?style=for-the-badge&logo=canva&logoColor=white)](https://www.canva.com/design/DAG3dlFZZmQ/hwgJYTEvuZQ8sED_gp4mKA/edit)
+<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/master/svgs/solid/laptop-code.svg" width="40" />
 
 </div>
 <p align="center">
