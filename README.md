@@ -7,6 +7,7 @@
 
 </div>
 <p align="center">
+  <img src="https://img.shields.io/badge/FontAwesome-528DD7?style=for-the-badge&logo=fontawesome&logoColor=white" alt="Font Awesome"> 
   <img src="https://img.shields.io/badge/HTML5-v5.2-330072?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-v3.1-E74E0F?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/PHP-v8.0-777BB4?style=for-the-badge&logo=php&logoColor=white" />
