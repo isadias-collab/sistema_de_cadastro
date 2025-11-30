@@ -12,6 +12,7 @@
   <img src="https://img.shields.io/badge/HTML5-v5.2-330072?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-v3.1-E74E0F?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/PHP-v8.0-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/Status-Em%20Desenvolvimento-FFFFFF?style=for-the-badge&logoColor=330072" />
   <img src="https://img.shields.io/badge/MySQL-Database-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/Figma-Protótipo-330072?style=for-the-badge&logo=figma&logoColor=white" />
   <img src="https://img.shields.io/badge/Status-Em%20Desenvolvimento-FFFFFF?style=for-the-badge&logoColor=330072" />
