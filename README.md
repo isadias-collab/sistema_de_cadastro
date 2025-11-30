@@ -270,7 +270,6 @@ _____________________________________________
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" />
 </p>
 
-
 - **HTML** – Estruturação das páginas  
 - **CSS** – Estilização e responsividade  
 - **Figma** – Criação do protótipo visual  
