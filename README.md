@@ -144,7 +144,7 @@ Estruturado para permitir:
 
 ---
 
-## 📘 Diagram (DER)
+## 📘 Diagrama (DER)
 
 | Diagrama Entidade-Relacionamento |
 |---------------------------------|
