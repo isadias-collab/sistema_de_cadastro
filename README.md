@@ -27,9 +27,9 @@ Este projeto tem como objetivo o desenvolvimento de um protótipo no Figma e a i
 
 <p align="center">
   <a href="#-sistema-de-cadastro-dr-peanut">🎯 Visão Geral</a> •
-  <a href="#-escopo-da-sprint-1">🚀 Sprint 1</a> •
+  <a href="#-escopo-da-sprint-1">📦 Sprint 1</a> •
   <a href="#-escopo-da-sprint-2">📦 Sprint 2</a> •
-  <a href="#-escopo-da-sprint-3">🧩 Sprint 3</a> •
+  <a href="#-escopo-da-sprint-3">📦 Sprint 3</a> •
   <a href="#-tecnologias-e-ferramentas-utilizadas">💻 Tecnologias</a> •
   <a href="#-equipe">👥 Equipe</a>
 </p>
