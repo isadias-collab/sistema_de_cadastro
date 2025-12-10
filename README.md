@@ -109,30 +109,27 @@ ______________________________________________________________________
 Clique abaixo para visualizar os protótipos navegáveis desenvolvidos no Figma:
 
 ### **Versões Desktop**
-[![Protótipo Natal (Desktop)](https://img.shields.io/badge/Figma-Natal%20(Desktop)-red?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/design/vOOszKQB7dl75aIkg1G3P9/Prot%C3%B3tipo---Natal?node-id=0-1&p=f&t=JxXc7evOzcpc9xlI-0)
+[![Protótipo Natal (Desktop)](https://img.shields.io/badge/Figma-Natal%20(Desktop)-red?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/design/vOOszKQB7dl75aIkg1G3P9/Protótipo---Natal?node-id=0-1&p=f&t=JxXc7evOzcpc9xlI-0)
 
-[![Protótipo Original (Desktop)](https://img.shields.io/badge/Figma-Original%20(Desktop)-blue?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/design/8wZGWBRCLmjp16lucYdJUO/Prot%C3%B3tipo---Original?t=JxXc7evOzcpc9xlI-0)
+[![Protótipo Original (Desktop)](https://img.shields.io/badge/Figma-Original%20(Desktop)-blue?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/design/8wZGWBRCLmjp16lucYdJUO/Protótipo---Original?t=JxXc7evOzcpc9xlI-0)
 
 ---
 
 ### **Versões Mobile**
-[![Protótipo Natal (Mobile)](https://img.shields.io/badge/Figma-Natal%20(Mobile)-red?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/design/DAtjrKttOqzJaqCFPuVcLQ/Prot%C3%B3tipo--Mobile----Natal?t=IaQFBHAuAIA7eyql-0)
+[![Protótipo Natal (Mobile)](https://img.shields.io/badge/Figma-Natal%20(Mobile)-red?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/design/DAtjrKttOqzJaqCFPuVcLQ/Protótipo--Mobile----Natal?t=IaQFBHAuAIA7eyql-0)
 
-[![Protótipo Original (Mobile)](https://img.shields.io/badge/Figma-Original%20(Mobile)-blue?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/design/ZLwePKMHS9p6qskIRYYUcA/Prot%C3%B3tipo--Mobile----Original?t=IaQFBHAuAIA7eyql-0)
+[![Protótipo Original (Mobile)](https://img.shields.io/badge/Figma-Original%20(Mobile)-blue?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/design/ZLwePKMHS9p6qskIRYYUcA/Protótipo--Mobile----Original?t=IaQFBHAuAIA7eyql-0)
 
 ---
 
 # 📦 Escopo da Sprint 2
 
 - Desenvolver o Diagrama Entidade-Relacionamento (DER).
-
 - Definir entidades, atributos e relacionamentos do banco de dados.
-
 - Organizar a estrutura lógica das tabelas para garantir integridade dos dados.
-
 - Validar a modelagem conforme os requisitos do sistema.
 
---- 
+---
 
 ## 🗄️ Banco de Dados — Dr. Peanut
 
@@ -148,7 +145,7 @@ Estruturado para permitir:
 
 | Diagrama Entidade-Relacionamento |
 |---------------------------------|
-| <img width="598" height="335" alt="image" src="https://github.com/user-attachments/assets/1b9c11a3-ed12-42d9-9578-ef22ba9d8b92" /> |
+| <img width="598" alt="Diagrama DER" src="LINK-DA-IMAGEM-AQUI" /> |
 
 ---
 
