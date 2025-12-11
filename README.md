@@ -101,7 +101,7 @@ ______________________________________________________________________
 
 | Página Cadastre-se Original (Desktop)| Página Cadastre-se de Natal (Mobile)|
 |------------------|------------------------|
-|<img width="1056" height="788" alt="image" src="https://github.com/user-attachments/assets/964e5a3c-21e3-4d52-a926-d34f95504aee" />|<img width="1056" height="788" alt="image" src="https://github.com/user-attachments/assets/3864102f-de60-41a3-b218-85d8a9bd0b5e" />
+|<img width="886" height="661" alt="image" src="https://github.com/user-attachments/assets/fd8f5911-20c5-4205-8a4b-ff29e0acc869" />|<img width="886" height="661" alt="image" src="https://github.com/user-attachments/assets/d31955dd-3232-4460-b67f-718ba571a995" />
 
  ---
 
