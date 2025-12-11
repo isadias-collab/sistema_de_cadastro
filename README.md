@@ -146,7 +146,8 @@ Estruturado para permitir:
 
 | Diagrama Entidade-Relacionamento |
 |---------------------------------|
-| <img width="598" alt="Diagrama DER" src="LINK-DA-IMAGEM-AQUI" /> |
+| <img width="488" height="274" alt="image" src="https://github.com/user-attachments/assets/bba73159-8355-4b05-b8e8-6b677f489005" />
+ |
 
 ---
 
